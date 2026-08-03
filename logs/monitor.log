@@ -1,0 +1,5 @@
+[2026-08-03T21:31:30.536Z] Iniciando execução do monitor de notícias do Insper
+[2026-08-03T21:31:39.930Z] Scraper encontrou 37 itens (notícias + eventos)
+[2026-08-03T21:31:39.931Z] 37 itens novos (não vistos antes)
+[2026-08-03T21:32:23.661Z] 37 itens classificados, 9 passaram no filtro (score >= 60)
+[2026-08-03T21:32:23.663Z] Digest salvo em data/digest-2026-08-03.json

@@ -1,0 +1,20 @@
+{
+  "name": "insper-news-monitor",
+  "version": "1.0.0",
+  "description": "Monitoramento periódico de notícias do Insper com classificação via Claude API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "dotenv": "^17.4.2",
+    "puppeteer": "^25.4.0",
+    "resend": "^6.18.1"
+  }
+}
