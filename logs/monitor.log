@@ -3,3 +3,9 @@
 [2026-08-03T21:31:39.931Z] 37 itens novos (não vistos antes)
 [2026-08-03T21:32:23.661Z] 37 itens classificados, 9 passaram no filtro (score >= 60)
 [2026-08-03T21:32:23.663Z] Digest salvo em data/digest-2026-08-03.json
+[2026-08-03T23:52:55.122Z] Iniciando execução do monitor de notícias do Insper
+[2026-08-03T23:53:01.212Z] Scraper encontrou 37 itens (notícias + eventos)
+[2026-08-03T23:53:01.212Z] 3 itens novos (não vistos antes)
+[2026-08-03T23:53:06.286Z] 3 itens classificados, 0 passaram no filtro (score >= 60)
+[2026-08-03T23:53:06.287Z] Digest salvo em data/digest-2026-08-03.json
+[2026-08-03T23:53:06.489Z] Email enviado para lucas.kenji2002@hotmail.com
