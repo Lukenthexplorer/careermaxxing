@@ -18,11 +18,15 @@ function formatDate(dateStr) {
 }
 
 function renderItem(item) {
+  const explicacao = [item.motivo, item.summary].filter(Boolean).join(" ");
   return `
     <div style="padding:12px 0;border-bottom:1px solid #e5e5e5;">
-      <a href="${item.url}" style="font-size:15px;font-weight:600;color:#1a1a2e;text-decoration:none;">${item.title}</a>
+      <div style="font-size:15px;font-weight:600;color:#1a1a2e;">${item.title}</div>
       <div style="font-size:12px;color:#888;margin-top:2px;">${formatDate(item.date)} · score ${item.score}</div>
-      <div style="font-size:13px;color:#444;margin-top:4px;">${item.motivo}</div>
+      <div style="font-size:13px;color:#444;margin-top:4px;">${explicacao}</div>
+      <div style="margin-top:6px;">
+        <a href="${item.url}" style="font-size:13px;color:#3355dd;">Acessar →</a>
+      </div>
     </div>
   `;
 }
