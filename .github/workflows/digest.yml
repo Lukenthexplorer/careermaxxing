@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: read
 
 jobs:
   run-digest:
@@ -27,6 +28,10 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
           DIGEST_EMAIL_FROM: ${{ secrets.DIGEST_EMAIL_FROM }}
+          GITHUB_REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MIN_SCORE: ${{ vars.MIN_SCORE }}
+          SEND_EMPTY_DIGEST: ${{ vars.SEND_EMPTY_DIGEST }}
 
       - name: Persistir cache e logs
         run: |

@@ -4,8 +4,8 @@ const client = new Anthropic();
 
 const PROFILE = `Perfil do aluno:
 - Curso: Ciência da Computação no Insper
-- Interesses principais: IA, Machine Learning, Startups, oportunidades de estágio/trainee, eventos de tecnologia, empreendedorismo, pesquisa em computação
-- Desinteresses: comunicados administrativos genéricos, notícias focadas em outros cursos (Direito, Administração, Economia) sem relação com tecnologia, eventos fechados para outras turmas`;
+- Interesses principais: IA, Machine Learning, Startups, atividades extracurriculares DENTRO do Insper (ligas acadêmicas, workshops, hackathons, grupos de estudo, clubes, palestras internas), eventos de tecnologia, empreendedorismo, pesquisa em computação
+- Desinteresses: comunicados administrativos genéricos, notícias focadas em outros cursos (Direito, Administração, Economia) sem relação com tecnologia, vagas de emprego externas (o aluno não está buscando isso agora), eventos fechados para outras turmas`;
 
 const CLASSIFICATION_SCHEMA = {
   type: "object",
@@ -33,7 +33,7 @@ const CLASSIFICATION_SCHEMA = {
   additionalProperties: false,
 };
 
-function buildPrompt(newsItems) {
+function buildPrompt(newsItems, dislikedTitles) {
   const list = newsItems
     .map(
       (item, i) =>
@@ -41,10 +41,15 @@ function buildPrompt(newsItems) {
     )
     .join("\n\n");
 
+  const feedbackBlock =
+    dislikedTitles && dislikedTitles.length > 0
+      ? `\nO aluno já marcou os seguintes títulos como NÃO relevantes anteriormente — use isso para calibrar o julgamento sobre conteúdo parecido:\n${dislikedTitles.map((t) => `- ${t}`).join("\n")}\n`
+      : "";
+
   return `Você é um assistente de filtro de notícias para um aluno do Insper.
 
 ${PROFILE}
-
+${feedbackBlock}
 Para cada notícia abaixo, avalie:
 1. score de 0-100: quão relevante é para este aluno
 2. motivo: uma frase curta explicando o score
@@ -58,7 +63,7 @@ ${list}
 Retorne um item para cada notícia, na mesma ordem, identificado pela url.`;
 }
 
-export async function classifyNews(newsItems) {
+export async function classifyNews(newsItems, dislikedTitles = []) {
   if (newsItems.length === 0) return [];
 
   const response = await client.messages.create({
@@ -71,7 +76,7 @@ export async function classifyNews(newsItems) {
         schema: CLASSIFICATION_SCHEMA,
       },
     },
-    messages: [{ role: "user", content: buildPrompt(newsItems) }],
+    messages: [{ role: "user", content: buildPrompt(newsItems, dislikedTitles) }],
   });
 
   const textBlock = response.content.find((b) => b.type === "text");
