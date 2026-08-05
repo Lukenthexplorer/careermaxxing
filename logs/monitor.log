@@ -15,3 +15,9 @@
 [2026-08-04T00:31:24.221Z] 0 itens classificados, 0 passaram no filtro (score >= 60)
 [2026-08-04T00:31:24.223Z] Digest salvo em data/digest-2026-08-04.json
 [2026-08-04T00:31:24.224Z] Digest vazio — email não enviado (SEND_EMPTY_DIGEST=true para forçar)
+[2026-08-05T12:51:34.536Z] Iniciando execução do monitor de notícias do Insper
+[2026-08-05T12:51:42.462Z] Scraper encontrou 34 itens (notícias + eventos)
+[2026-08-05T12:51:42.463Z] 1 itens novos (não vistos antes, 0 descartados por título similar)
+[2026-08-05T12:51:48.506Z] 1 itens classificados, 0 passaram no filtro (score >= 60)
+[2026-08-05T12:51:48.507Z] Digest salvo em data/digest-2026-08-05.json
+[2026-08-05T12:51:48.507Z] Digest vazio — email não enviado (SEND_EMPTY_DIGEST=true para forçar)
