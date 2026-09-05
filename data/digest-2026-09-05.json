@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Seminário Internacional de Inovação 2026",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/09/seminario-internacional-de-inovacao-2026",
+    "date": "2026-09-29T03:00:00.000Z",
+    "summary": "O evento será realizado integralmente em inglês.",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:h-brido"
+    ],
+    "inscricaoAberta": false,
+    "score": 70,
+    "motivo": "Seminário de inovação no Insper, com potencial de temas de tecnologia e pesquisa.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Insper e Institut Pasteur unem ciência de dados e vigilância viral para antecipar surtos",
+    "url": "https://www.insper.edu.br/pt/conteudos/acontece-no-insper/insper-e-institut-pasteur-unem-ciencia-de-dados-e-vigilancia-viral-para-antecipar-surtos",
+    "date": "2026-09-04T20:50:00.000Z",
+    "summary": "Parceria combina monitoramento de vírus no esgoto, inteligência artificial e políticas públicas para desenvolver ferramentas capazes de apoiar decisões na área da saúde",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:políticas-públicas/saúde",
+      "area-de-conhecimento:tecnologia/dados",
+      "area-de-conhecimento:tecnologia/inteligência-artificial",
+      "centro-de-conhecimento:centro-de-regulacao-e-democracia",
+      "area-de-conhecimento:tecnologia",
+      "tipos-de-conteudo:acontece-no-insper/parcerias"
+    ],
+    "inscricaoAberta": false,
+    "score": 92,
+    "motivo": "Pesquisa aplicada com ciência de dados e IA em parceria internacional no Insper.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Hub de Inovação e Empreendedorismo Paulo Cunha e Endeavor anunciam as vencedoras da primeira edição do Future of Business",
+    "url": "https://www.insper.edu.br/pt/conteudos/acontece-no-insper/hub-de-inovacao-e-empreendedorismo-paulo-cunha-e-endeavor-anunciam-as-vencedoras-da-primeira-edicao-do-future-of-business",
+    "date": "2026-08-31T23:09:00.000Z",
+    "summary": "Prêmio reconhece dez startups que já transformam faturamento em resultado e utilizam inteligência artificial para solucionar desafios de seus setores",
+    "category": "Notícia",
+    "tags": [
+      "centro-de-conhecimento:hub-de-inova--o-e-empreendedorismo-paulo-cunha",
+      "area-de-conhecimento:gestão-e-negócios/empreendedorismo-e-inovacao"
+    ],
+    "inscricaoAberta": false,
+    "score": 85,
+    "motivo": "Premiação de startups que usam IA, ligada ao Hub de Inovação do Insper.",
+    "acao": "leia",
+    "tema": "Empreendedorismo"
+  }
+]
