@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Livro discute como infraestrutura da IA amplia disputas por soberania digital",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/livro-discute-como-infraestrutura-da-ia-amplia-disputas-por-soberania-digital",
+    "date": "2026-09-09T19:34:00.000Z",
+    "summary": "O professor Rodolfo Avelino, em capítulo escrito com Sérgio Amadeu da Silveira, analisa a concentração de data centers e serviços de nuvem e alerta para novas formas de dependência tecnológica",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:acontece-no-insper/pesquisa",
+      "area-de-conhecimento:ciência-da-computação",
+      "area-de-conhecimento:tecnologia/inteligência-artificial",
+      "area-de-conhecimento:tecnologia",
+      "docentes:RodolfoDaSilvaAvelino",
+      "area-de-conhecimento:engenharia",
+      "tipos-de-conteudo:insper-conhecimento",
+      "docentes:"
+    ],
+    "inscricaoAberta": false,
+    "score": 70,
+    "motivo": "Pesquisa de professor do Insper sobre infraestrutura de IA e soberania digital, tema tecnológico relevante",
+    "acao": "considera",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Capstone para o Hospital Sírio-Libanês propõe modelo capaz de converter laudos médicos em dados estruturados",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/capstone-para-o-hospital-sirio-libanes-propoe-modelo-capaz-de-converter-laudos-medicos-em-dados-estruturados",
+    "date": "2026-09-09T19:32:00.000Z",
+    "summary": "A solução desenvolvida por quatro alunos preserva a rotina dos médicos e a privacidade dos pacientes&nbsp;ao mesmo tempo que aprimora&nbsp;a gestão dos dados clínicos",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia"
+    ],
+    "inscricaoAberta": false,
+    "score": 88,
+    "motivo": "Projeto de alunos do Insper aplicando ML/NLP em saúde, diretamente alinhado ao curso e interesses",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Centro de Dados e IA do Insper lança novo Laboratório de Cognição",
+    "url": "https://www.insper.edu.br/pt/conteudos/dados/centro-de-dados-e-ia-do-insper-lanca-novo-laboratorio-de-cognicao",
+    "date": "2026-09-09T18:31:00.000Z",
+    "summary": "Criado em parceria com a Editorial Philosophia, o espaço amplia a atuação do centro em pesquisas e atividades de ensino sobre processos cognitivos e emocionais&nbsp;envolvidos na&nbsp;tomada de decisão e suas relações com a IA",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:acontece-no-insper/pesquisa",
+      "area-de-conhecimento:tecnologia/dados",
+      "area-de-conhecimento:tecnologia",
+      "centro-de-conhecimento:centro-de-ci-ncia-de-dados",
+      "tipos-de-conteudo:insper-conhecimento"
+    ],
+    "inscricaoAberta": false,
+    "score": 90,
+    "motivo": "Novo laboratório de IA dentro do Insper, com oportunidades de pesquisa e ensino",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  }
+]

@@ -1,26 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://www.insper.edu.br/pt/conteudos/acontece-no-insper/educacao-que-passa-de-pai-para-filhos",
-      "title": "Educação que passa de pai para filhos",
-      "seenAt": "2026-08-10T11:46:43.503Z"
-    },
-    {
-      "url": "https://www.insper.edu.br/pt/conteudos/dados/parceria-insper-openai",
-      "title": "André Filipe Batista: o CIO à frente da parceria entre o Insper e a OpenAI",
-      "seenAt": "2026-08-10T11:46:43.503Z"
-    },
-    {
-      "url": "https://www.insper.edu.br/pt/eventos/2026/09/cine-debate-counted-out",
-      "title": "Cine-debate: Counted Out",
-      "seenAt": "2026-08-10T11:46:43.503Z"
-    },
-    {
-      "url": "https://www.insper.edu.br/pt/eventos/2026/08/investimento-sustentavel-em-um-mundo-em-transformacao-perspectivas-globais-e-oportunidades-para-o-brasil",
-      "title": "Investimento Sustentável em um Mundo em Transformação: Perspectivas Globais e Oportunidades para o Brasil",
-      "seenAt": "2026-08-10T11:46:43.503Z"
-    },
-    {
       "url": "https://www.insper.edu.br/pt/conteudos/politicas-publicas/-a-loteria-do-nascimento-do-nucleo-de-estudos-raciais-do-insper-ganha-o-jabuti-academico",
       "title": "‘A loteria do nascimento’, do Núcleo de Estudos Raciais do Insper, ganha o Jabuti Acadêmico",
       "seenAt": "2026-08-15T11:19:20.175Z"
@@ -249,6 +229,36 @@
       "url": "https://www.insper.edu.br/pt/cursos/pos-graduacao/mestrado/economia/encontro-com-a-coordenacao-mestrado-profissional-em-economia",
       "title": "Encontro com a Coordenação | Mestrado Profissional em Economia",
       "seenAt": "2026-09-05T13:41:05.654Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/livro-discute-como-infraestrutura-da-ia-amplia-disputas-por-soberania-digital",
+      "title": "Livro discute como infraestrutura da IA amplia disputas por soberania digital",
+      "seenAt": "2026-09-10T14:51:16.820Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/conteudos/engenharia/capstone-para-o-hospital-sirio-libanes-propoe-modelo-capaz-de-converter-laudos-medicos-em-dados-estruturados",
+      "title": "Capstone para o Hospital Sírio-Libanês propõe modelo capaz de converter laudos médicos em dados estruturados",
+      "seenAt": "2026-09-10T14:51:16.820Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/conteudos/dados/centro-de-dados-e-ia-do-insper-lanca-novo-laboratorio-de-cognicao",
+      "title": "Centro de Dados e IA do Insper lança novo Laboratório de Cognição",
+      "seenAt": "2026-09-10T14:51:16.820Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/eventos/2026/09/cafe-com-politicas-brasil-na-boca-da-urna",
+      "title": "Café com Políticas: Brasil na boca da urna",
+      "seenAt": "2026-09-10T14:51:16.820Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/eventos/2026/09/carreira-em-movimento-desafios-do-futuro",
+      "title": "Carreira em movimento: como se preparar hoje para os desafios do futuro",
+      "seenAt": "2026-09-10T14:51:16.820Z"
+    },
+    {
+      "url": "https://www.insper.edu.br/pt/eventos/2026/09/cine-debate-counted-out",
+      "title": "Cine-debate: Counted Out",
+      "seenAt": "2026-09-10T14:51:16.820Z"
     }
   ]
 }
