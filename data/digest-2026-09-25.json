@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Computação Bayesiana via MCMC: 30 anos de estórias",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/10/computacao-bayesiana-via-mcmc-30-anos-de-estorias",
+    "date": "2026-10-21T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 80,
+    "motivo": "Palestra interna sobre computação bayesiana e MCMC, base estatística relevante para ML.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Pesquisa aplicada e inovação tecnológica ganham reforço no Insper",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/pesquisa-aplicada-e-inovacao-tecnologica-ganham-reforco-no-insper",
+    "date": "2026-09-24T18:51:00.000Z",
+    "summary": "Natália Cerize chega à escola para fortalecer a conexão entre engenharias, ciência, empresas e pesquisa aplicada",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia",
+      "docentes:"
+    ],
+    "inscricaoAberta": false,
+    "score": 78,
+    "motivo": "Reforço em pesquisa aplicada e inovação tecnológica nas engenharias do Insper, diretamente ligado a oportunidades de pesquisa.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Aluno de Ciência da Computação atua em projeto de cibersegurança em Illinois",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/aluno-de-ciencia-da-computacao-atua-em-projeto-de-ciberseguranca-em-illinois",
+    "date": "2026-09-24T18:49:00.000Z",
+    "summary": "Integrante da turma de estudantes do Insper que visitou a Universidade de Illinois em Urbana-Champaign em julho, Léo Montefusco Maximiano teve sua primeira experiência com pesquisa",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper/internacional",
+      "tipos-de-conteudo:acontece-no-insper/parcerias"
+    ],
+    "inscricaoAberta": false,
+    "score": 88,
+    "motivo": "Aluno do mesmo curso em experiência de pesquisa internacional em computação.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Em Chicago, aluna de Engenharia da Computação explora conexões entre tecnologia, pesquisa e empreendedorismo",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/em-chicago-aluna-de-engenharia-da-computacao-explora-conexoes-entre-tecnologia-pesquisa-e-empreendedorismo",
+    "date": "2026-09-24T18:48:00.000Z",
+    "summary": "Maria Carolina Porto passou dez semanas na Universidade de Chicago, onde participou de aulas, workshops e de um projeto que aplica métodos computacionais às ciências sociais",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper/internacional",
+      "tipos-de-conteudo:acontece-no-insper/parcerias",
+      "programas:graduacao"
+    ],
+    "inscricaoAberta": false,
+    "score": 85,
+    "motivo": "Une tecnologia, pesquisa e empreendedorismo com métodos computacionais, alinhado aos interesses.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  }
+]
