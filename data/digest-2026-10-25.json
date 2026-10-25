@@ -1,0 +1,78 @@
+[
+  {
+    "title": "O que esperar do profissional de dados do futuro?",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/11/o-que-esperar-do-profissional-de-dados-do-futuro",
+    "date": "2026-11-23T03:00:00.000Z",
+    "summary": "Encontro online sobre como a inteligência artificial está transformando as competências necessárias para analisar informações, resolver problemas e apoiar a tomada de decisão.",
+    "category": "Evento",
+    "tags": [
+      "area-de-conhecimento:tecnologia/dados",
+      "area-de-conhecimento:tecnologia/inteligência-artificial",
+      "area-de-conhecimento:tecnologia/transformação-digital",
+      "tipos-de-conteudo:carreira-e-profissões",
+      "tipos-de-conteudo:carreira-e-profissões/networking",
+      "formato-de-programa:programas-avan-ados",
+      "tipos-de-evento:online"
+    ],
+    "inscricaoAberta": false,
+    "score": 80,
+    "motivo": "Evento sobre IA e competências em dados, diretamente alinhado.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Em Urbana-Champaign, aluno do Insper participa de projeto que cria computadores biológicos",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/em-urbana-champaign-aluno-do-insper-participa-de-projeto-que-cria-computadores-biologicos",
+    "date": "2026-10-13T12:56:00.000Z",
+    "summary": "Yuri Henrique da Cunha Santos, de Ciência da Computação, desenvolveu ferramentas de visualização para&nbsp;pesquisadores que projetam&nbsp;sistemas computacionais a partir de neurônios vivos",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper/internacional",
+      "area-de-conhecimento:tecnologia",
+      "tipos-de-conteudo:acontece-no-insper/parcerias",
+      "programas:graduacao"
+    ],
+    "inscricaoAberta": false,
+    "score": 92,
+    "motivo": "Aluno de CC em pesquisa de computação biológica no exterior: altamente relevante.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Aluna do Insper explora a computação quântica no programa de verão da Universidade de Illinois",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/aluna-do-insper-explora-a-computacao-quantica-no-programa-de-verao-da-universidade-de-illinois",
+    "date": "2026-10-13T12:55:00.000Z",
+    "summary": "O estudo de algoritmos quânticos reforçou a curiosidade de Carolina Amorim pelo mundo da tecnologia e&nbsp;sua convicção na escolha do&nbsp;curso de Ciência da Computação",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper/internacional",
+      "area-de-conhecimento:tecnologia",
+      "tipos-de-conteudo:acontece-no-insper/parcerias",
+      "programas:graduacao"
+    ],
+    "inscricaoAberta": false,
+    "score": 88,
+    "motivo": "Experiência de pesquisa em computação quântica por aluna de CC.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "34º Pitch Night - Insper Angels e Hub",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/11/34-pitch-night",
+    "date": "2026-11-12T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 85,
+    "motivo": "Pitch Night do Insper Angels e Hub: startups e empreendedorismo dentro do Insper.",
+    "acao": "leia",
+    "tema": "Empreendedorismo"
+  }
+]
