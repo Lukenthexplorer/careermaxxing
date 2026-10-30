@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ExpoTech",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/12/expo-tech",
+    "date": "2026-12-09T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 90,
+    "motivo": "Feira de tecnologia no Insper, ideal para projetos e networking em computação.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Lançamento do livro - Computação Bayesiana via MCMC: 30 anos de histórias",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/10/lancamento-do-livro-computacao-bayesiana-via-mcmc-30-anos-de-historias",
+    "date": "2026-12-02T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 65,
+    "motivo": "Evento interno sobre computação bayesiana, base estatística de ML.",
+    "acao": "considera",
+    "tema": "Evento"
+  },
+  {
+    "title": "Tecnologia, educação e aprendizagem em uma trajetória interdisciplinar",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/tecnologia-educacao-e-aprendizagem-em-uma-trajetoria-interdisciplinar",
+    "date": "2026-10-29T12:48:00.000Z",
+    "summary": "Recém-chegada ao Insper, onde leciona em Engenharia e Ciência da Computação, Cassia de Oliveira Fernandez pesquisa trajetórias de aprendizagem, visualização de dados e os efeitos da IA no ensino de programação",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:ciência-da-computação",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia",
+      "docentes:"
+    ],
+    "inscricaoAberta": false,
+    "score": 80,
+    "motivo": "Professora do curso de Ciência da Computação pesquisa IA no ensino de programação.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Professor do Insper conta a gênese de livro que reúne três gerações de estatísticos brasileiros",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/professor-do-insper-conta-a-genese-de-livro-que-reune-tres-geracoes-de-estatisticos-brasileiros",
+    "date": "2026-10-29T12:42:00.000Z",
+    "summary": "Hedibert Freitas Lopes é coautor da recém-lançada terceira edição de obra clássica sobre os métodos MCMC, fundamentais na estatística bayesiana",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:acontece-no-insper/pesquisa",
+      "area-de-conhecimento:comunicação/cultura",
+      "area-de-conhecimento:tecnologia/dados",
+      "docentes:",
+      "tipos-de-conteudo:insper-conhecimento",
+      "centro-de-conhecimento:centro-de-gest-o-e-pol-ticas-p-blicas"
+    ],
+    "inscricaoAberta": false,
+    "score": 60,
+    "motivo": "Estatística bayesiana e MCMC são base para machine learning.",
+    "acao": "considera",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Em Illinois, aluna de Engenharia de Computação atua com IA aplicada à educação",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/em-illinois-aluna-de-engenharia-de-computacao-atua-com-ia-aplicada-a-educacao",
+    "date": "2026-10-29T12:40:00.000Z",
+    "summary": "Além de&nbsp;participar de pesquisa&nbsp;na Universidade de Illinois em Urbana-Champaign, a carioca Marlize Debossan deu aulas de Ciência de Dados para adolescentes americanos",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper/internacional",
+      "area-de-conhecimento:tecnologia",
+      "tipos-de-conteudo:acontece-no-insper/programa-de-bolsas"
+    ],
+    "inscricaoAberta": false,
+    "score": 78,
+    "motivo": "Aluna de computação em pesquisa de IA no exterior; inspiração direta.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Professores do Insper lançam o Grupo de Robótica, Automação e Sistemas Inteligentes",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/professores-do-insper-lancam-o-grupo-de-robotica-automacao-e-sistemas-inteligentes",
+    "date": "2026-10-29T12:38:00.000Z",
+    "summary": "O GRASi tem a missão de promover a integração entre ensino, pesquisa e inovação, em meio a atividades que vêm sendo maturadas nos cursos de Engenharia da escola",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia"
+    ],
+    "inscricaoAberta": false,
+    "score": 92,
+    "motivo": "Novo grupo interno de pesquisa em robótica e sistemas inteligentes, aberto a envolvimento.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Lançamento do Estudo de Caso QI Tech: a trajetória de um unicórnio brasileiro",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/11/lacamento-do-estudo-de-caso-qi-tech-a-trajetoria-de-um-unicornio-brasileiro",
+    "date": "2026-11-05T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 72,
+    "motivo": "Caso de unicórnio de fintech: empreendedorismo e tecnologia no Insper.",
+    "acao": "leia",
+    "tema": "Empreendedorismo"
+  }
+]
