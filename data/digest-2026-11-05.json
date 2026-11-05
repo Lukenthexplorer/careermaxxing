@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Who Should Govern AI? Regulation, Innovation and Fundamental Rights in Brazil",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/11/who-should-govern-ai-regulation-innovation-and-fundamental-rights-in-brazil",
+    "date": "2026-11-06T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 80,
+    "motivo": "Evento no Insper sobre governança e regulação de IA, diretamente ligado ao interesse em IA.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Da saúde indígena à robótica, 4º Simpósio de Iniciação Científica e Tecnológica reúne 48 pesquisas no Insper",
+    "url": "https://www.insper.edu.br/pt/conteudos/acontece-no-insper/da-saude-indigena-a-robotica-4-simposio-de-iniciacao-cientifica-e-tecnologica-reune-48-pesquisas-no-insper",
+    "date": "2026-11-03T22:57:00.000Z",
+    "summary": "Evento destaca a diversidade da produção científica na graduação e amplia premiação com uma categoria específica para Engenharia e Computação",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:políticas-públicas",
+      "area-de-conhecimento:economia",
+      "area-de-conhecimento:engenharia",
+      "area-de-conhecimento:marketing-e-vendas",
+      "area-de-conhecimento:gestão-e-negócios"
+    ],
+    "inscricaoAberta": false,
+    "score": 92,
+    "motivo": "Simpósio interno de IC com categoria específica para Engenharia e Computação e robótica.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  }
+]
