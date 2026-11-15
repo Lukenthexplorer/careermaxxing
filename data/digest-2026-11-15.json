@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lançamento do Laboratório de Cibersegurança (Cyber Lab) | Projeto de Pesquisa TCS Pace Port",
+    "url": "https://www.insper.edu.br/pt/eventos/2026/12/lancamento-do-laboratorio-de-ciberseguranca-cyber-lab-projeto-de-pesquisa-tcs-pace-port",
+    "date": "2026-12-01T03:00:00.000Z",
+    "summary": "",
+    "category": "Evento",
+    "tags": [
+      "tipos-de-evento:presencial"
+    ],
+    "inscricaoAberta": false,
+    "score": 90,
+    "motivo": "Lançamento de laboratório de cibersegurança no Insper: evento interno de tecnologia e pesquisa.",
+    "acao": "leia",
+    "tema": "Evento"
+  },
+  {
+    "title": "Alunos da Mecatrônica do Insper desenvolvem solução de baixo custo em visão computacional",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/alunos-da-mecatronica-do-insper-desenvolvem-solucao-de-baixo-custo-em-visao-computacional",
+    "date": "2026-11-11T14:00:00.000Z",
+    "summary": "No projeto Capstone, de conclusão do curso, eles substituíram as câmeras sofisticadas dos robôs da BotBot por webcams de uso doméstico",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:pesquisa-na-graduação",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia"
+    ],
+    "inscricaoAberta": false,
+    "score": 88,
+    "motivo": "Projeto de alunos do Insper em visão computacional, diretamente ligado a IA e computação.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Insper e PIT ampliam conexão entre academia, empresas e ecossistema de inovação",
+    "url": "https://www.insper.edu.br/pt/conteudos/dados/insper-e-pit-ampliam-conexao-entre-academia-empresas-e-ecossistema-de-inovacao",
+    "date": "2026-11-11T13:57:00.000Z",
+    "summary": "Parceria do Centro de Dados e IA com o Parque de Inovação Tecnológica de São José dos Campos abre novas frentes para pesquisa aplicada e desenvolvimento de soluções inovadoras",
+    "category": "Notícia",
+    "tags": [
+      "centro-de-conhecimento:centro-de-ci-ncia-de-dados",
+      "tipos-de-conteudo:acontece-no-insper/parcerias"
+    ],
+    "inscricaoAberta": false,
+    "score": 85,
+    "motivo": "Parceria do Centro de Dados e IA com parque de inovação: pesquisa aplicada e ecossistema de inovação.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  }
+]
