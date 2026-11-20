@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Evento de encerramento do Capstone celebra soluções inovadoras e parceria com empresas",
+    "url": "https://www.insper.edu.br/pt/conteudos/engenharia/evento-de-encerramento-do-capstone-celebra-solucoes-inovadoras-e-parceria-com-empresas",
+    "date": "2025-06-17T21:55:24.000Z",
+    "summary": "Projetos finais dos alunos de Engenharia&nbsp;do Insper mostram como a formação prática gera valor para a sociedade",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:ciência-da-computação",
+      "tipos-de-conteudo:acontece-no-insper",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia",
+      "programas:graduacao"
+    ],
+    "inscricaoAberta": false,
+    "score": 70,
+    "motivo": "Evento interno com projetos técnicos de engenharia e parceria com empresas.",
+    "acao": "considera",
+    "tema": "Evento"
+  },
+  {
+    "title": "Insper e MIT Sloan realizam workshop para discutir pesquisas em IA, clima e saúde",
+    "url": "https://www.insper.edu.br/pt/conteudos/acontece-no-insper/insper-e-mit-sloan-realizam-workshop-para-discutir-pesquisas-em-ia-clima-e-saude-",
+    "date": "2026-11-18T11:30:00.000Z",
+    "summary": "Professores e pesquisadores das duas instituições se reuniram no Insper para compartilhar estudos e debater questões de interesse comum para o Brasil e a América Latina",
+    "category": "Notícia",
+    "tags": [
+      "tipos-de-conteudo:acontece-no-insper/pesquisa"
+    ],
+    "inscricaoAberta": false,
+    "score": 90,
+    "motivo": "Workshop interno no Insper sobre pesquisa em IA com o MIT Sloan.",
+    "acao": "leia",
+    "tema": "Pesquisa"
+  },
+  {
+    "title": "Bolsistas do Insper visitam o ambiente de inovação do Vale do Silício",
+    "url": "https://www.insper.edu.br/pt/conteudos/tecnologia/bolsistas-do-insper-visitam-o-ambiente-de-inovacao-do-vale-do-silicio",
+    "date": "2025-10-13T14:13:30.000Z",
+    "summary": "Os estudantes Gabrielly Susko, Alan Barbosa e Fernando dos Santos passaram uma semana na Califórnia, como parte do prêmio pela vitória no concurso Campus Mobile",
+    "category": "Notícia",
+    "tags": [
+      "area-de-conhecimento:ciência-da-computação",
+      "area-de-conhecimento:tecnologia",
+      "area-de-conhecimento:engenharia",
+      "tipos-de-conteudo:acontece-no-insper/programa-de-bolsas"
+    ],
+    "inscricaoAberta": false,
+    "score": 80,
+    "motivo": "Alunos do Insper em competição de tecnologia e imersão em inovação/startups.",
+    "acao": "leia",
+    "tema": "Empreendedorismo"
+  }
+]
